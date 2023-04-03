@@ -1,1 +1,29 @@
+p {
+color:green; 
+ height: 32px ;
+}
 
+ul {
+  color:red;
+    width:200px;
+} 
+ol {
+  color:blue;
+    font-size:12px;
+}
+h1 {
+  color:yellow;
+    font-wieght; 45px;
+}
+header {
+  color:purple;
+    background-color:gold;
+}
+body {
+  color:white;
+  font-weight: 23px;
+}
+footer {
+  color:black 
+    font-size: 37px;
+}
